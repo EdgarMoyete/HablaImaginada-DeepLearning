@@ -28,7 +28,7 @@ Se propone disenar una arquitectura de redes neuronales profundas mezclando rede
 * Dense (100)
 * Dense (n)
 
-* Validacion cruzada de 5
+Validacion cruzada de 5
 
 ### CNN1D-LSTM-TrainTest-Yo.ipynb
 * CNN-1D (32@1x7)
